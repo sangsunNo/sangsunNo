@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=250&section=header&text=Sangsun%20No&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-⚒Tech Stack⚒
+## ⚒ Tech Stack ⚒
 <br><br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
@@ -13,6 +13,14 @@
 <br><br><br>
 
 ![sangsunNO's github stats](https://github-readme-stats.vercel.app/api?username=sangsunNo&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangsunNo&layout=compact&theme=tokyonight)
+<br><br><br>
+
+
+## ⚡️ Blog️️️️ ⚡️
+<a href='https://sangsunN0.github.io/' 
+   target='_blank'>
+   <img src="https://img.shields.io/badge/gitblog-6799FF?style=flat-square&logo=github&logoColor=white"/></a>
+</a>
 </div>
 
 
