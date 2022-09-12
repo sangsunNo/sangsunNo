@@ -1,4 +1,5 @@
 <div align="center"></div>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=250&section=header&text=Sangsun%20No&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 ⚒Tech Stack⚒
@@ -13,5 +14,6 @@
 [![sangsunNO's github stats](https://github-readme-stats.vercel.app/api?username=sangsunNo&show_icons=true&theme=tokyonight)](https://github.com/sangsunNo)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangsunNo&layout=compact)](https://github.com/****/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangsunNo&layout=compact&theme=tokyonight
+)(https://github.com/****/github-readme-stats)
 
