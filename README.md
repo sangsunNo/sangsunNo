@@ -21,6 +21,7 @@
    target='_blank'>
    <img src="https://img.shields.io/badge/gitblog-6799FF?style=flat-square&logo=github&logoColor=white"/></a>
 </a>
+<a href="mailto:mbhb8817@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mbhb8817@gmail.com"/></a>
 </div>
 
 
