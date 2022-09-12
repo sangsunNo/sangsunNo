@@ -1,5 +1,5 @@
+<div align="center"></div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=250&section=header&text=Sangsun%20No&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-
 
 ⚒Tech Stack⚒
 <br>
