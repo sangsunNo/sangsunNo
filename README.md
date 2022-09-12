@@ -17,7 +17,7 @@
 
 
 ## ⚡️ Me ⚡️
-<a href='https://sangsunN0.github.io/' 
+<a href='https://sangsunNo.github.io/' 
    target='_blank'>
    <img src="https://img.shields.io/badge/gitblog-6799FF?style=flat-square&logo=github&logoColor=white"/></a>
 </a>
