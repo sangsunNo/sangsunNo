@@ -11,11 +11,9 @@
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
+
+[![sangsunNO's github stats](https://github-readme-stats.vercel.app/api?username=sangsunNo&show_icons=true&theme=tokyonight)](https://github.com/sangsunNo)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangsunNo&layout=compact&theme=tokyonight)
 </div>
-
-[![sangsunNO's github stats](https://github-readme-stats.vercel.app/api?username=sangsunNo&show_icons=true&theme=tokyonight)](https://github.com/sangsunNo)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangsunNo&layout=compact&theme=tokyonight)
-
 
 
 
