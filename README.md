@@ -29,4 +29,5 @@
 1. Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 )
 <p> - 🔗 Link : <a href="http://118.67.142.110:8000/" target=_blank>art-box</a> </p>
 [Art-Box] (http://118.67.142.110:8000/) {: target="_blank"}
+[Art-Box](http://118.67.142.110:8000/){:target="_blank"}
 
