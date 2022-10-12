@@ -27,5 +27,5 @@
 
 ## 🗂 프로젝트
 1. Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 )
- - 🔗 Link : [Google]: http://google.com/
+ - 🔗 Link : [Google]: [http://google.com/]
 
