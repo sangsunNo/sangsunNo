@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp;
 <br><br><br>
 
-![sangsunNO's github stats](https://github-readme-stats.vercel.app/api?username=sangsunNo&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangsunNo&layout=compact&theme=tokyonight)
+![sangsunNO's github stats](https://github-readme-stats.vercel.app/api?username=sangsunNo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangsunNo&layout=compact&theme=tokyonight)
 <br><br><br>
 
 
@@ -31,5 +32,5 @@
 [Art-Box] (http://118.67.142.110:8000/) {: target="_blank"}<br>
 [Art-Box](http://118.67.142.110:8000/){:target="_blank"}<br>
 <a href="http://118.67.142.110:8000/" target="_blank">Art-Box</a><br>
-![Art-Box](http://118.67.142.110:8000){: .btn.btn-default target="_blank" } <br>
+![Art-Box](http://118.67.142.110:8000) {: .btn.btn-default target="_blank" } <br>
 
