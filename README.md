@@ -8,7 +8,6 @@
    
 2.&nbsp;Pick-me ( 개발자 구인구직 사이트 ) <br />
 🔗 Link : [Pick-me](http://118.67.130.161:8000/)
-   **[Road Map]** [Backend](https://roadmap.sh/backend){:target="_blank"}
 
 <br>
 
