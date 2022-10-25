@@ -4,7 +4,7 @@
 
 ## 🗂 프로젝트
 1.&nbsp;Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) <br />
-🔗 [프로젝트 개요](https://sangsunno.github.io/art%20box/art-box-1-%EA%B0%9C%EC%9A%94/) &nbsp; &nbsp; &nbsp;
+🔗 [프로젝트 개요](https://sangsunno.github.io/categories/artbox) &nbsp; &nbsp; &nbsp;
 🔗 [Repository](https://github.com/sangsunNo/art-box)  
 🔗 Link : [Art-box](http://118.67.142.110:8000/)
    
