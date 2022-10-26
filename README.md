@@ -30,7 +30,7 @@ Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-
 <details markdown="1">
  <summary>📝 IMG</summary>
  
-![데이터](/img/data_preprocessing.png)
+![3분할](/img/divide3.png)
  
 </details>
 *BootStrap - Scrollspy - [HowTo](https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#%EC%82%AC%EC%9D%B4%EB%93%9C%EB%B0%94--bootstrap---scrollspy-)  
