@@ -1,22 +1,32 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=250&section=header&text=Sangsun%20No&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
-
+ 
 ## 🗂 프로젝트
-1.&nbsp;Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 )  
-<br />
-🔗 Link : &nbsp; &nbsp; &nbsp; [Art-box](http://118.67.142.110:8000/) &nbsp; &nbsp; &nbsp;
-[Repository](https://github.com/sangsunNo/art-box)  &nbsp; &nbsp; &nbsp;
-[프로젝트 개요](https://sangsunno.github.io/categories/artbox)
 
-<br />
-   
-2.&nbsp;Pick-me ( 개발자 구인구직 사이트 )  
+🗓 22/09/19 ~ 10/04
+<br /><br />
+Pick-me ( 개발자 구인구직 사이트 ) [ Back-end ]  
 <br />
 🔗 Link : &nbsp; &nbsp; &nbsp; [Pick-me](http://118.67.130.161:8000/) &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/pick-me)  &nbsp; &nbsp; &nbsp;
 [프로젝트 개요](https://sangsunno.github.io/categories/pickme)
 
+<br />
+
+🗓 22/08/12 ~ 08/29
+<br /><br />
+Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-end ]  
+
+*작품 출력 자동화 및 파일 관리를 위한 데이터 전처리 - [HowTo](https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0)  
+*작품 출력 공간 분배 후 EJS 반복문을 통해 사진 출력 - [HowTo](https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#1%EC%A4%84%EC%97%90-3%EA%B0%9C-%EC%94%A9-%EB%B0%98%EB%B3%B5-%EC%B6%9C%EB%A0%A5)  
+*BootStrap - Scrollspy - [HowTo](https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#%EC%82%AC%EC%9D%B4%EB%93%9C%EB%B0%94--bootstrap---scrollspy-)  
+
+<br />
+
+🔗 Link : &nbsp; &nbsp; &nbsp; [Art-box](http://118.67.142.110:8000/) &nbsp; &nbsp; &nbsp;
+[Repository](https://github.com/sangsunNo/art-box)  &nbsp; &nbsp; &nbsp;
+[프로젝트 개요](https://sangsunno.github.io/categories/artbox)
 
 <br>
 
