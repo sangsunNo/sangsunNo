@@ -27,11 +27,18 @@ Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-
 </details>
  
 *작품 출력 공간 분배 후 EJS 반복문을 통해 사진 출력 - [HowTo](https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#1%EC%A4%84%EC%97%90-3%EA%B0%9C-%EC%94%A9-%EB%B0%98%EB%B3%B5-%EC%B6%9C%EB%A0%A5)  
+
 <details markdown="1">
  <summary>📝 IMG</summary>
  
 ![3분할 gif](/img/div3.gif)   
-![3분할 img](/img/divide3.png)
+![3분할 img](/img/div3.png)
+
+---
+
+![sweetalert2 gif](/img/sweetalert2.gif)  
+![sweetalert2 img](/img/sweetalert2.png)  
+![navbar img](/img/navbar.png)  
  
 </details>
  
