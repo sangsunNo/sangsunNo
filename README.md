@@ -37,6 +37,16 @@ Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-
  
 *BootStrap - Scrollspy - [HowTo](https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#%EC%82%AC%EC%9D%B4%EB%93%9C%EB%B0%94--bootstrap---scrollspy-)  
 
+<details markdown="1">
+ <summary>📝 IMG</summary>
+ 
+![scrollspy setting](/img/scrollspy_setting.png)  
+![3분할 gif](/img/scrollspy_setting.gif)   
+![scrollspy scroll](/img/scrollspy_scroll.png)  
+![3분할 gif](/img/scrollspy_scroll.gif)   
+ 
+</details>
+
 <br />
 
 🔗 Link : &nbsp; &nbsp; &nbsp; [Art-box](http://118.67.142.110:8000/) &nbsp; &nbsp; &nbsp;
