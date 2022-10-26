@@ -30,8 +30,8 @@ Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-
 <details markdown="1">
  <summary>📝 IMG</summary>
  
-![print3](/videos/div3.gif)   
-![3분할](/img/divide3.png)
+![3분할 gif](/img/div3.gif)   
+![3분할 img](/img/divide3.png)
  
 </details>
  
