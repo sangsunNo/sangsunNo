@@ -3,13 +3,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=250&section=header&text=Sangsun%20No&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 ## 🗂 프로젝트
-1.&nbsp;Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) <br />
-🔗 [프로젝트 개요](https://sangsunno.github.io/categories/artbox) &nbsp; &nbsp; &nbsp;
-🔗 [Repository](https://github.com/sangsunNo/art-box)  
-🔗 Link : [Art-box](http://118.67.142.110:8000/)
+1.&nbsp;Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 )  
+<br />
+🔗 Link : &nbsp; &nbsp; &nbsp; [Art-box](http://118.67.142.110:8000/) &nbsp; &nbsp; &nbsp;
+[Repository](https://github.com/sangsunNo/art-box)  &nbsp; &nbsp; &nbsp;
+[프로젝트 개요](https://sangsunno.github.io/categories/artbox)
+
+
    
-2.&nbsp;Pick-me ( 개발자 구인구직 사이트 ) <br />
-🔗 Link : [Pick-me](http://118.67.130.161:8000/)
+2.&nbsp;Pick-me ( 개발자 구인구직 사이트 )  
+<br />
+🔗 Link : &nbsp; &nbsp; &nbsp; [Pick-me](http://118.67.130.161:8000/) &nbsp; &nbsp; &nbsp;
+[Repository](https://github.com/sangsunNo/pick-me)  &nbsp; &nbsp; &nbsp;
+[프로젝트 개요](https://sangsunno.github.io/categories/pickme)
+
 
 <br>
 
