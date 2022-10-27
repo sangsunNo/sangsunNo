@@ -33,7 +33,7 @@
 
 <br /><br />
 
-***작품 출력 자동화 및 파일 관리를 위한 데이터 전처리**
+> ***작품 출력 자동화 및 파일 관리를 위한 데이터 전처리**
 <details markdown="1">
  <summary>🌠 <strong>Img</strong> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0">Document</a></summary>
  
@@ -43,7 +43,7 @@
  
 <br />
 
-***작품 출력 공간 분배 후 EJS 반복문을 통해 사진 출력**
+> ***작품 출력 공간 분배 후 EJS 반복문을 통해 사진 출력**
 
 <details markdown="1">
  <summary>🌠 <strong>Img</strong> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#1%EC%A4%84%EC%97%90-3%EA%B0%9C-%EC%94%A9-%EB%B0%98%EB%B3%B5-%EC%B6%9C%EB%A0%A5">Document</a></summary>
@@ -63,7 +63,7 @@
  
 <br />
 
-***BootStrap - Scrollspy**  
+> ***BootStrap - Scrollspy**  
 
 <details markdown="1">
  <summary>🌠 <strong>Img</strong> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#%EC%82%AC%EC%9D%B4%EB%93%9C%EB%B0%94--bootstrap---scrollspy-">Document</a></summary>
