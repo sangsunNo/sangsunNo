@@ -5,9 +5,11 @@
 # 🗂 프로젝트
 
 ### 🗓 22/09/19 ~ 10/04
-<br /><br />
-### Pick-me ( 개발자 구인구직 사이트 ) [ Back-end ]  
 <br />
+
+### Pick-me ( 개발자 구인구직 사이트 ) [ Back-end ]  
+
+<br /><br />
 
 🔗 Link : &nbsp; &nbsp; &nbsp; [Pick-me](http://118.67.130.161:8000/) &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/pick-me)  &nbsp; &nbsp; &nbsp;
@@ -17,9 +19,11 @@
 <hr>
 
 ### 🗓 22/08/12 ~ 08/29
-<br /><br />
-### Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-end ]  
 <br />
+
+### Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-end ]  
+
+<br /><br />
 
 🔗 Link : &nbsp; &nbsp; &nbsp; [Art-box](http://118.67.142.110:8000/) &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/art-box)  &nbsp; &nbsp; &nbsp;
