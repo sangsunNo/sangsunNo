@@ -9,27 +9,29 @@
 
 ### Pick-me ( 개발자 구인구직 사이트 ) [ Back-end ]  
 
-<br /><br />
+<br />
 
 🔗 Link : &nbsp; &nbsp; &nbsp; [Pick-me](http://118.67.130.161:8000/) &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/pick-me)  &nbsp; &nbsp; &nbsp;
 [프로젝트 개요](https://sangsunno.github.io/categories/pickme)
 
-<br />
+<br /><br />
+
 <hr>
 
 ### 🗓 22/08/12 ~ 08/29
+
 <br />
 
 ### Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-end ]  
 
-<br /><br />
+<br />
 
 🔗 Link : &nbsp; &nbsp; &nbsp; [Art-box](http://118.67.142.110:8000/) &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/art-box)  &nbsp; &nbsp; &nbsp;
 [프로젝트 개요](https://sangsunno.github.io/categories/artbox)
 
-<br />
+<br /><br />
 
 *작품 출력 자동화 및 파일 관리를 위한 데이터 전처리 - [HowTo](https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
