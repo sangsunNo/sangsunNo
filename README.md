@@ -6,7 +6,7 @@
 
 🗓 22/09/19 ~ 10/04
 <br /><br />
-Pick-me ( 개발자 구인구직 사이트 ) [ Back-end ]  gkgkgk
+Pick-me ( 개발자 구인구직 사이트 ) [ Back-end ]  
 <br />
 🔗 Link : &nbsp; &nbsp; &nbsp; [Pick-me](http://118.67.130.161:8000/) &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/pick-me)  &nbsp; &nbsp; &nbsp;
@@ -31,14 +31,14 @@ Art-Box ( 시대별 미술품 출력, 미술 관련 전시 및 정보 ) [ Front-
 <details markdown="1">
  <summary>📝 IMG</summary>
  
-![3분할 gif](/img/div3.gif)   
 ![3분할 img](/img/div3.png)
+![3분할 gif](/img/div3.gif)   
 
 ---
 
-![sweetalert2 gif](/img/sweetalert2.gif)  
 ![sweetalert2 img](/img/sweetalert2.png)  
 ![navbar img](/img/navbar.png)  
+![sweetalert2 gif](/img/sweetalert2.gif)  
  
 </details>
  
