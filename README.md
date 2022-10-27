@@ -1,9 +1,9 @@
-<div align="center">
+ <div align="center" markdown="1">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=250&section=header&text=Sangsun%20No&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
  
 # 🗂 프로젝트
-<u>밑줄</u> 
+
 ### 🗓 22/09/19 ~ 10/04
 <br />
 
@@ -65,7 +65,6 @@
 <br />
 
 ***- BootStrap - Scrollspy***  
-<U>gogo</U>
 
 <details markdown="1">
  <summary>🌠 Img &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#%EC%82%AC%EC%9D%B4%EB%93%9C%EB%B0%94--bootstrap---scrollspy-">Document</a></summary>
