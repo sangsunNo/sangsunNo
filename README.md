@@ -34,9 +34,8 @@
 <br /><br />
 
 *작품 출력 자동화 및 파일 관리를 위한 데이터 전처리 - [HowTo](https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0)
-
 <details markdown="1">
- <summary>📝 IMG</summary>
+ <summary>📝 Show Img <a href="https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0">Go Document</a></summary>
  
 <img src = "/img/data_preprocessing.png" alt="데이터" width = "65%">  
 
