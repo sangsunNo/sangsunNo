@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6799FF&height=250&section=header&text=Sangsun%20No&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
  
+
+# 🗓️ TIL
+   [TIL](https://github.com/sangsunNo/TIL)
 # 🗂 프로젝트
 
 ### 🗓 22/09/19 ~ 10/04
@@ -41,8 +44,8 @@
 <img src = "/img/data_preprocessing.png" alt="데이터" width = "65%">  
 
 </details>
- 
 <br />
+ 
 
 ***- 작품 출력 공간 분배 후 EJS 반복문을 통해 사진 출력***
 
