@@ -73,12 +73,14 @@
 <img src = "/img/scrollspy_setting.png" alt="scrollspy setting" width = "40%">  
 
 ![3분할 gif](/img/scrollspy_setting.gif)   
-
+<img src="/img/scrollspy_setting.gif" alt="3분할 gif" width="300">
 <hr>
 
 <img src = "/img/scrollspy_scroll.png" alt="scrollspy scroll" width = "40%">  
 
 ![3분할 gif](/img/scrollspy_scroll.gif)
+<img src="/img/scrollspy_scroll.gif" alt="3분할 gif" width="300">
+
  
 </details>
 
