@@ -50,14 +50,14 @@
 <details markdown="1">
  <summary>🌠 IMG &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#1%EC%A4%84%EC%97%90-3%EA%B0%9C-%EC%94%A9-%EB%B0%98%EB%B3%B5-%EC%B6%9C%EB%A0%A5">Document</a></summary>
  
-<img src = "/img/div3.png" alt="3분할 img" width = "50%">
+<img src = "/img/div3.png" alt="3분할 img" width = "40%">
 
 ![3분할 gif](/img/div3.gif)   
 
 ---
 
-<img src = "/img/sweetalert2.png" alt="sweetalert2 img" width = "65%">  
-<img src = "/img/navbar.png" alt="navbar img" width = "65%">  
+<img src = "/img/sweetalert2.png" alt="sweetalert2 img" width = "40%">  
+<img src = "/img/navbar.png" alt="navbar img" width = "40%">  
 
 ![sweetalert2 gif](/img/sweetalert2.gif)  
  
@@ -70,13 +70,13 @@
 <details markdown="1">
  <summary>🌠 IMG &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#%EC%82%AC%EC%9D%B4%EB%93%9C%EB%B0%94--bootstrap---scrollspy-">Document</a></summary>
  
-<img src = "/img/scrollspy_setting.png" alt="scrollspy setting" width = "65%">  
+<img src = "/img/scrollspy_setting.png" alt="scrollspy setting" width = "40%">  
 
 ![3분할 gif](/img/scrollspy_setting.gif)   
 
 <hr>
 
-<img src = "/img/scrollspy_scroll.png" alt="scrollspy scroll" width = "65%">  
+<img src = "/img/scrollspy_scroll.png" alt="scrollspy scroll" width = "40%">  
 
 ![3분할 gif](/img/scrollspy_scroll.gif)
  
