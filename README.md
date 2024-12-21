@@ -39,7 +39,7 @@
 <details markdown="1">
  <summary>🌠 Img &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0">Document</a></summary>
  
-<img src = "/img/data_preprocessing.png" alt="데이터" width = "50%">  
+<img src = "/img/data_preprocessing.png" alt="데이터" width = "60%">  
 
 </details>
 <br />
@@ -52,14 +52,13 @@
  
 <img src = "/img/div3.png" alt="3분할 img" width = "40%">
 
-![3분할 gif](/img/div3.gif)   
-
+<img src="/img/div3.gif" alt="3분할 gif" width="70%">
 ---
 
-<img src = "/img/sweetalert2.png" alt="sweetalert2 img" width = "40%">  
-<img src = "/img/navbar.png" alt="navbar img" width = "40%">  
+<img src = "/img/sweetalert2.png" alt="sweetalert2 img" width = "60%">  
+<img src = "/img/navbar.png" alt="navbar img" width = "60%">  
 
-<img src="/img/sweetalert2.gif" alt="sweetalert2 gif" width="40%">
+<img src="/img/sweetalert2.gif" alt="sweetalert2 gif" width="70%">
  
 </details>
  
@@ -70,16 +69,16 @@
 <details markdown="1">
  <summary>🌠 IMG &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-3-GALLERY-%EC%84%A4%EA%B3%84/#%EC%82%AC%EC%9D%B4%EB%93%9C%EB%B0%94--bootstrap---scrollspy-">Document</a></summary>
  
-<img src = "/img/scrollspy_setting.png" alt="scrollspy setting" width = "40%">  
+<img src = "/img/scrollspy_setting.png" alt="scrollspy setting" width = "60%">  
 
    
-<img src="/img/scrollspy_setting.gif" alt="scrollspy_setting gif" width="50%">
+<img src="/img/scrollspy_setting.gif" alt="scrollspy_setting gif" width="70%">
 <hr>
 
-<img src = "/img/scrollspy_scroll.png" alt="scrollspy scroll" width = "40%">  
+<img src = "/img/scrollspy_scroll.png" alt="scrollspy scroll" width = "60%">  
 
 
-<img src="/img/scrollspy_scroll.gif" alt="scrollspy_scroll gif" width="50%">
+<img src="/img/scrollspy_scroll.gif" alt="scrollspy_scroll gif" width="70%">
 
  
 </details>
