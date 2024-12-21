@@ -39,7 +39,7 @@
 <details markdown="1">
  <summary>🌠 Img &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0">Document</a></summary>
  
-<img src = "/img/data_preprocessing.png" alt="데이터" width = "60%">  
+<img src = "/img/data_preprocessing.png" alt="데이터" width = "70%">  
 
 </details>
 <br />
@@ -52,13 +52,13 @@
  
 <img src = "/img/div3.png" alt="3분할 img" width = "40%">
 
-<img src="/img/div3.gif" alt="3분할 gif" width="70%">
+<img src="/img/div3.gif" alt="3분할 gif" width="80%">
 ---
 
 <img src = "/img/sweetalert2.png" alt="sweetalert2 img" width = "60%">  
 <img src = "/img/navbar.png" alt="navbar img" width = "60%">  
 
-<img src="/img/sweetalert2.gif" alt="sweetalert2 gif" width="70%">
+<img src="/img/sweetalert2.gif" alt="sweetalert2 gif" width="80%">
  
 </details>
  
@@ -72,13 +72,13 @@
 <img src = "/img/scrollspy_setting.png" alt="scrollspy setting" width = "60%">  
 
    
-<img src="/img/scrollspy_setting.gif" alt="scrollspy_setting gif" width="70%">
+<img src="/img/scrollspy_setting.gif" alt="scrollspy_setting gif" width="80%">
 <hr>
 
 <img src = "/img/scrollspy_scroll.png" alt="scrollspy scroll" width = "60%">  
 
 
-<img src="/img/scrollspy_scroll.gif" alt="scrollspy_scroll gif" width="70%">
+<img src="/img/scrollspy_scroll.gif" alt="scrollspy_scroll gif" width="80%">
 
  
 </details>
