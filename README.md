@@ -39,7 +39,7 @@
 <details markdown="1">
  <summary>🌠 Img &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://sangsunno.github.io/art%20box/art-box-2-GALLERY-%EA%B0%9C%EC%9A%94/#--%EB%8D%B0%EC%9D%B4%ED%84%B0">Document</a></summary>
  
-<img src = "/img/data_preprocessing.png" alt="데이터" width = "65%">  
+<img src = "/img/data_preprocessing.png" alt="데이터" width = "40%">  
 
 </details>
 <br />
