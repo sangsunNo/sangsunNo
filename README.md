@@ -16,7 +16,6 @@
 
 🔗 Link : &nbsp; &nbsp; &nbsp; ~~[Pick-me](http://118.67.130.161:8000/)~~ &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/pick-me)  &nbsp; &nbsp; &nbsp;
-[프로젝트 개요](https://sangsunno.github.io/categories/pickme)
 
 <br /><br />
 
@@ -32,7 +31,6 @@
 
 🔗 Link : &nbsp; &nbsp; &nbsp; ~~[Art-box](http://118.67.142.110:8000/)~~ &nbsp; &nbsp; &nbsp;
 [Repository](https://github.com/sangsunNo/art-box)  &nbsp; &nbsp; &nbsp;
-[프로젝트 개요](https://sangsunno.github.io/categories/artbox)
 
 <br /><br />
 
